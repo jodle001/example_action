@@ -1,0 +1,8 @@
+# Goal
+int32 duration
+---
+# Result
+string time_elapsed
+---
+# Feedback
+int32 time_remaining
